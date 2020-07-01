@@ -34,3 +34,10 @@ for user discussion, and should not be considered a place to post
 quesions for the Stanford Research Computing Center support team.
 For these questions, and for discussion that cannot be public, we ask
 that you continue to use `srcc-support@stanford.edu`.
+
+## Who can ask and answer questions here?
+
+Note that since this is a public repository on GitHub, you can receive responses
+from Stanford and non-Stanford folks alike that have GitHub accounts. If you
+are concerned about receiving only Stanford-affiliated responses, you should
+not post here.
